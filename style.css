@@ -2,3 +2,13 @@ body
 {color: #14ee1f;
  background-color: #5E5C64;}
  .pogo{width: 400px;}
+header
+{background-color: rgb(185, 45, 45);color: #69bb6d;}
+ 
+ 
+ footer
+ {background-color: darkgray;
+ color: aqua;}
+ .insta{width: 150px;}
+ .discord{width: 150px;}
+ .face{width: 150px;}
