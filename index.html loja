@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <header>
+         
+<title> Lojas Strinberg </title>
+    <h1>Strinberg, revendedora de instrumentos musicais</h1> 
+<img src="logo2.jpeg" alt="logo" class="pogo">
+         
+        
+  </header>
+  
+<link rel="stylesheet" href="style.css">
+  
+ 
+  <body>
+
+    <main>    
+<h1>Instrumentos de alta qualidade com preços abaixo do normal</h1>         
+        
+    <Li>-Guitarras, teclados e muito mais</Li>                     
+    
+         
+<img src="instru.jpeg" alt="Violao fender jazz">  <img src="tecl.jpeg">                                                                     
+ 
+        
+<a href="https://youtu.be/6hgVihWjK2c?si=LB6SNa03Pcyq5dHM"></a>
+        
+
+
+                        <img src="bandlab.png">                    
+                            <A href="https://youtu.be/wa37viTmnak?si=RyzFFAY8jiw6W26T">veja como funciona nossa loja</A>
+ria
+        </header>
+ </body>
+  
+
+<footer>
+    <h1>Conheça nossas redes sociais e veja nosso produto</h1>
+
+        <img src="insta.png"  class="insta" >   
+        <a href="https://www.instagram.com/">
+
+                <img src="facebook.png" class="face">
+                <a href="https://www.facebook.com/?locale=pt_BR"></a>
+
+</footer>
+
+  
+    </main>
+<html>
